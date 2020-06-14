@@ -1,6 +1,6 @@
 # STARBUZZ CAFE WEBPAGE
 
-HTML basic project from HTML CSS & HTML book  
+HTML basic project from HTML CSS & HTML Head First book  
 
 //To enable the browse-sync to run  
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass  
