@@ -1,6 +1,4 @@
-//To enable the browse-sync to run 
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+# STARBUZZ CAFE WEBPAGE
 
-//To run browser-sync, that updates automatically the web page, one the code is saved. 
-browser-sync start --server --files "**/**"
+HTML basic project from HTML CSS & HTML Head First book  
 
